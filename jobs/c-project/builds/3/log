@@ -1,0 +1,19 @@
+Started by user [8mha:////4EHNj0umqbWvVQyG2+yDoeOlmRgu54epVPixzT2iq8RPAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL93MS8rFIAypi8fMAAAAA=[0mManju
+Running as SYSTEM
+Building remotely on [8mha:////4PvulyIe/QpeAHyhd5raqgXobDonZjrSwRRpVtjdDvWoAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgY+/eT83ILSktQifaCmUgBcFRROwwAAAA==[0msonu in workspace /home/ec2-user/workspace/c-project
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/ec2-user/workspace/c-project/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Manjulask44/c-projects1.git # timeout=10
+Fetching upstream changes from https://github.com/Manjulask44/c-projects1.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git fetch --tags --force --progress -- https://github.com/Manjulask44/c-projects1.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision 463891aa410c572f61520e846b0a2a099235f69f (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 463891aa410c572f61520e846b0a2a099235f69f # timeout=10
+Commit message: "Update rev.c"
+ > git rev-list --no-walk 463891aa410c572f61520e846b0a2a099235f69f # timeout=10
+Finished: SUCCESS

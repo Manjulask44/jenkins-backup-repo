@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-02-28 13:55:51.607 UTC</timestamp>
+  <md5sum>c31e6f99076db412bd9333967f8e3183</md5sum>
+  <fileName>Credential id=slave name=jenkins (slave)</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@2.6.1">
+      <timestamp>1646056978891</timestamp>
+      <nodeName>sonu</nodeName>
+      <timestamp0>1646056858888</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>
